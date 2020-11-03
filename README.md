@@ -1,6 +1,5 @@
 # packer-demo
 
-# terraform-packer
 Packer is used to build AMI's <br /> 
 Packer is a command line tool that can build AWS AMIs based on templates.<br /> 
 Instead of installing the software after booting up an instance, you can create an AMI with all the necessary software on <br />
